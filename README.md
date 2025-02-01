@@ -1,4 +1,5 @@
-# kikurs
+# Einführungskurs Künstliche Intelligenz
+
 Begleitmaterial zum Modul "Einführung in die künstliche Intelligenz" im Studiengang Online Medieninformatik Master
 
 *** aktuell gibt es leider noch **keine ** Inhalte, auch wenn es die Beispiele schon gibt  - die folgen in Kürze (ca. Ende Februar) ***
