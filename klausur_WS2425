@@ -1,0 +1,48 @@
+# Die Klausur im WS 24/25
+
+Die Klausur zum Modul Künstliche Intelligenz fand am 1.2.2025 um 14 Uhr statt (bei mir im Raum 209 der HS Emden Leer - es waren erstaunlich wenige Studis anwesend, insgesamt waren wir glaube ich zu Neunt und mindestens die Hälfte schrieb eine Klausur zu einem anderen Thema).
+
+Es waren 6 Fragen.
+
+Insgesamt war die Klausur gut machbar. Die Fragen waren auch sehr fair, da sie (sehr) nahe an dem dran war, was in den Vorlesungen und in den "Präsenz" besprochen wurde.
+
+## Aufgabe 1: Wichtige Begriffe
+
+Bei dieser Aufgabe gab es 20 (?) Teilaufgaben, in denen man Begriffe zum Thema KI und Machine Learning einsetzen und Wahr/Falsch-Fragen beantworten musste. Ein wenig so wie in der EA1 zum Thema BFS/DFS-Suche.
+
+Darauf konnte man sich gut vorbereiten und es gibt ja auch den "Spikzettel" (1 A4-Seite, handbeschrieben).
+
+## Aufgabe 2: CSP
+
+Eine Karte mit den fünf Bundesländern im Osten und Berlin sollte mit drei Farben Gelb, Rot und Schwarz so eingefärbt werden, dass keine zwei Nachbarländer diesselbe Farbe besitzen.
+
+Der CSP-Graph sollte gezeichnet und es sollten die einzelnen Schritte mit der Angabe der Heuristik beschrieben werden.
+
+Auch das ist ein Klassiker und eine ähnliche Aufgabe wurden in der Vorlesung ausführlich besprochen.
+
+## Aufgabe 3: Uniform Cost Search
+
+Ausgangspunkt war eine Liste mit deutschen Städten und ihre Entfernungen.
+
+Es sollte der kürzeste Weg von Hannover (?) nach München herausgefunden werden und die einzelnen Schritte sollten beschrieben werden, also wie die Knoten expandiert und jeweils die
+
+## Aufgabe 4: Decision Tree
+
+Eine Tabelle mit ein paar Zeilen und ein paar Spalten im Stile der "Wann gibt es Party?"-Aufgabe (eventuell ging es sogar darum).
+
+Die Aufgabe bestand darin, einen Entscheidungsbaum zu zeichen und am Ende zwei Fälle damit zu testen.
+
+Das kam mir fast ein wenig zu einfach vor. Hoffentlich habe ich die Aufgabe richtig verstanden;)
+
+## Aufgabe 5: SVM
+
+In dieser Aufgabe sollte ein einfaches SVM-Modell "angewendet" werden, in dem man die Supportvektoren und die Hyperplane-Linie einzeichen musste.
+
+Dann sollten drei Punkte mit der resultierenden Funktion getestet werden.
+
+Außerdem wurden zwei Begriffe abgefragt, die im Zusammenhang mit 
+## Aufgabe 6:
+
+Hier ging es um k-means-Clustering.
+
+Das Thema hatte ich in der Vorbereitung leider komplett ausgelassen, wobei ich nicht "auf Lücke" gelernt hatte, ich hatte es schlichtweg übersehen, so dass ich dazu nicht allzu viel wusste. 
